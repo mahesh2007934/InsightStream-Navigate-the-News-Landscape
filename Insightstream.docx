@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>InsightStream – Navigate the News Landscape</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #0056b3;
+    }
+    h2 {
+      color: #333;
+      margin-top: 30px;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+    .highlight {
+      background-color: #e6f2ff;
+      padding: 10px;
+      border-left: 4px solid #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>InsightStream – Navigate the News Landscape</h1>
+
+  <p><strong>InsightStream</strong> is your guide to understanding and navigating today’s rapidly evolving news ecosystem. In a world flooded with information, separating fact from fiction is more critical than ever.</p>
+
+  <h2>Why InsightStream?</h2>
+  <p>From breaking headlines to in-depth analysis, InsightStream curates the most relevant and trustworthy news sources in one streamlined experience. Whether you're a casual reader or a professional researcher, InsightStream helps you stay informed with clarity and confidence.</p>
+
+  <h2>Key Features</h2>
+  <ul>
+    <li><strong>Smart Aggregation:</strong> Get news from multiple trusted outlets in real time.</li>
+    <li><strong>Bias Indicators:</strong> See how different outlets frame the same story.</li>
+    <li><strong>Context Layers:</strong> Understand the background and evolution of ongoing topics.</li>
+    <li><strong>Custom Feeds:</strong> Personalize your experience by following topics that matter most to you.</li>
+  </ul>
+
+  <h2>Stay Ahead</h2>
+  <p>In a constantly shifting news landscape, staying informed is about more than headlines—it's about understanding the bigger picture. Let InsightStream help you navigate the noise and focus on the facts.</p>
+
+  <div class="highlight">
+    <p><strong>Ready to take control of your news journey?</strong> Start your InsightStream experience today.</p>
+  </div>
+</body>
+</html>
